@@ -1,0 +1,9 @@
+Origin: hcrrison's repo
+Label: hcrrison's repo
+Suite: stable
+Version: 1.0
+Codename: hcrrison
+Architectures: iphoneos-arm
+Components: main
+Description: hcrrison's repo.
+MD5Sum: 
