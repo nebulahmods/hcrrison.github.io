@@ -1,9 +1,8 @@
-Origin: hcrrison's repo
-Label: hcrrison's repo
+Origin: Rishanan's Repo
+Label: Rishanan's Repo
 Suite: stable
 Version: 1.0
-Codename: hcrrison
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: hcrrison's repo.
-MD5Sum: 
+Description: Where the fun begins
